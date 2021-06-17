@@ -15,7 +15,7 @@
     JavaScript</li>
     <li>C#</li>
     <li>PHP</li>
- <h4>Basic understanding<\h4>
+ <h4>Basic understanding of</h4>
   Prolog
     
 <h3>Designing languages and Libraries</h3>
