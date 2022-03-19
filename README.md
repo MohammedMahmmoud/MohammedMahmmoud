@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there I'm Mohamed M. Mansour in you help😉😃</h1>
+<h1 align="center"> Hey there I'm Mohamed M. Mansour in you help</h1>
 <h3>About Me</h3>
   My name is Mohamed Mahmoud Mansour.<br>
   I'm currently studying Computers and Artificial Intelligence at Cairo university.<br>
