@@ -40,7 +40,7 @@
 
 <h3>- 📫 How to reach me:</h3>
 • E-mail: mohamed.mahmoud.mansour.elsayd@gmail.com<br>
-• Linkedin: [mohamed.mahmoud.mansour.elsayd@gmail.com](https://www.linkedin.com/in/mohamed-mans0ur/)<br>
+• Linkedin: https://www.linkedin.com/in/mohamed-mans0ur/<br>
 
     
 <!--
